@@ -1,0 +1,2 @@
+# Explainable AI
+ Explainable Artificial Intelligence (XAI) area is devoted to open AI black-box techniques and design guidelines to build explainable AI systems. XAI aims to reveal the hidden reasoning of intelligent agents. Intending to support the human comprehension, this research  seeks for disclosing the causal explanation and the steps taken in machine outputs, predictions and recommendations.
